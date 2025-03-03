@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~BlZxnYpA#OArcxninbeuSl5m0M5CGVIAydbqrKu3dXi36Mf1D4wE"
     },  
     
     "STICKER_NAME": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -72,7 +72,7 @@
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦"
    
      }, 
@@ -86,7 +86,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "252613982172"
 
     }, 
 
